@@ -1,13 +1,12 @@
 jsjd#! usr/bin/python2
 
 """
-__Author__ = Ci Ku ~ debby anggraini a.k.a xnver404
+
 __Name__ = hasher
 __version__ = 3.0.1 (alpha)
 __Code__ = python
-__Github__ = https://github.com/ciku370
+__Github__ = https://github.com/emzkie2018
 __Date__ = 21 - 4 - 2018
-__Team__ = Blackhole Security
 __License__ = GNU General Public License V.3
 
 (c) debby anggraini 2018
